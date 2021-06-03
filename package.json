@@ -1,0 +1,26 @@
+{
+  "name": "vepseord",
+  "version": "0.0.1",
+  "description": "Den norske \"Spelling bee\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyrkjedelen/vepseord.git"
+  },
+  "keywords": [
+    "spellingbee"
+  ],
+  "author": "Vegard K. Hovland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyrkjedelen/vepseord/issues"
+  },
+  "homepage": "https://github.com/kyrkjedelen/vepseord#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fetch": "^1.1.0"
+  }
+}
